@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **SHUKLAHET2704@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing](https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing](https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
