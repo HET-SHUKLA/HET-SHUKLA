@@ -1,6 +1,8 @@
+# Welcome to my Git Hub Page
+# I am Het Shukla - Passionate Android Developer
 # 💫 About Me:
-🌱 I’m currently learning Frontend web development<br><br>📫 How to reach me SHUKLAHET2704@gmail.com<br><br>📄 Resume https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing
 
+🌱 I’m currently learning Flutter<br><br>📫 How to reach me SHUKLAHET2704@gmail.com<br><br>📄 Resume https://drive.google.com/file/d/1b0c8dmUWwpE6lIzfVo4gPrnuHa6sFJUH/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/het--shukla) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18322169) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/het_shukla66566) 
