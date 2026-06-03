@@ -6,4 +6,4 @@ I am a Backend Engineer focused on real-time systems and distributed architectur
 
 ## Contact
 - [Website](https://www.hetshukla.com/)
-- [Linkedin](https://www.linkedin.com/in/het--shukla/)
+- [Linkedin](https://www.linkedin.com/in/het-shukla-dev/)
